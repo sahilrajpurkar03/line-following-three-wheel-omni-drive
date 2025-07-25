@@ -33,7 +33,7 @@ Below is the schematic of the **OPT101 sensor array** used for line detection:
 
 ![OPT Array Schematic](docs/schematic-opt-array.png)
 
-## 📁 Code Structure
+## 📁 Code
 
 Main source file: ![main.c](line-follow-3-wheel-omni-drive/line-follow-3-wheel-omni-drive/main.c)
 
